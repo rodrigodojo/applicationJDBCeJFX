@@ -38,6 +38,7 @@ public class MainViewController implements Initializable{
 			controller.setDepartmentService(new DepartmentService());
 			controller.updateTableView();
 		});
+		
 	}
 
 	@FXML
